@@ -1,2 +1,2 @@
-# Internshala-Automation
-Developed a MERN stack web application that automates job applications on Internshala. The platform allows users to input their details once and automatically applies to relevant internships based on their preferences. Implemented user authentication, profile setup with Recoil for state management, and Puppeteer/Selenium for job application automation.
+# Chat Application
+Developed a full-stack real-time chat application featuring user authentication, instant messaging, theme customization, and profile management. Built using modern web technologies to deliver a responsive and seamless user experience.
